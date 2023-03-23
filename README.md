@@ -21,7 +21,7 @@ How to run application:
 - open up a browser and go to `http://localhost:8080/`
 - If wanted; follow the instructions in /token/README.md for more information. This also has steps on getting this application up and running on the Internet Computer
 
-Internet Cloud Login/Redirect
+Internet Cloud Login/Redirect:
 
 ![alt text](https://github.com/J0K3Rn/J0K3Rn-Coin/blob/main/screenshots/ic_redirect.png?raw=true) 
 
